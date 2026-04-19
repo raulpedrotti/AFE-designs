@@ -1,4 +1,4 @@
-# Contains all my main author developmented analog front end (AFE) circuits in CMOS technology
+# This folder includes the works that I developed as an author
 
 **[1] A Low-Power Analog Front-End for Photoplethysmography Signals with Dynamic Range Enhancement**
 
